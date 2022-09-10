@@ -1,0 +1,1 @@
+Custom Liste Sınıfı İmplementasyonu
